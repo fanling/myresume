@@ -90,10 +90,10 @@ export default function Home() {
             <section>
               <h2 className="text-lg font-bold mb-3">Research Grants</h2>
               <div className="space-y-2 text-sm text-gray-700">
-                <p>"Research on the Evolution of Design Tools in the Era of Artificial Intelligence", National Social Science Fund General Project (24BG140, 2024–27)</p>
-                <p>"Trends in Art and Design Practices in the Context of Artificial Intelligence", Ministry of Education Humanities and Social Sciences General Project (20YJA760011, 2020–23)</p>
-                <p>"Research and Application of Multimodal Digital Asset Management Based on High-Quality Industrial Corpora", Shanghai Industrial High-Quality Development Special Fund (RZ-RGZN-01-24-0509, 2024–25)</p>
-                <p>"New Design Capabilities: Building an AIGC Competence Development Platform for the Design Industry", Shanghai Cultural and Creative Industry Development Fund (2024010657, 2024)</p>
+                <p>&ldquo;Research on the Evolution of Design Tools in the Era of Artificial Intelligence&rdquo;, National Social Science Fund General Project (24BG140, 2024–27)</p>
+                <p>&ldquo;Trends in Art and Design Practices in the Context of Artificial Intelligence&rdquo;, Ministry of Education Humanities and Social Sciences General Project (20YJA760011, 2020–23)</p>
+                <p>&ldquo;Research and Application of Multimodal Digital Asset Management Based on High-Quality Industrial Corpora&rdquo;, Shanghai Industrial High-Quality Development Special Fund (RZ-RGZN-01-24-0509, 2024–25)</p>
+                <p>&ldquo;New Design Capabilities: Building an AIGC Competence Development Platform for the Design Industry&rdquo;, Shanghai Cultural and Creative Industry Development Fund (2024010657, 2024)</p>
               </div>
             </section>
           </div>
