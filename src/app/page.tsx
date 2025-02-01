@@ -1,12 +1,16 @@
+import Image from "next/image";
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-white">
       <div className="max-w-6xl mx-auto p-8 prose prose-sm prose-gray">
         {/* Header Section */}
         <div className="bg-[#98FFD7] p-6 rounded-lg mb-8 flex items-center gap-8">
-          <img
+          <Image
             src="/profile.jpg"
             alt="Profile"
+            width={96}
+            height={96}
             className="w-24 h-24 rounded-full object-cover border-4 border-white"
           />
           <div>

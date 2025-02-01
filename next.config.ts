@@ -1,8 +1,6 @@
 import type { NextConfig } from "next";
 
 /** @type {import('next').NextConfig} */
-const config = {
-  turbo: false
-};
+const config = {};
 
 export default config;
